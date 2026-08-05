@@ -31,7 +31,7 @@ ___
 ## How to submit
 
 - Turn the deliverable files into your final deck: run the **Final Presentation Generator** (linked from the Module 6 deck) to build a single-file HTML deck, or paste your files into an AI tool like **Gamma** or **Canva** (see `06-launch/final-presentation.md`).
-- Commit the deck to this repo, then submit your **repo link** (or the deck / PDF) to the learning platform within **7 days** of your cohort ending.
+- Commit the deck to this repo, then submit your **repo link** and your **presentation deck** to the learning platform within **7 days** of your cohort ending.
 
 ## Repo structure
 

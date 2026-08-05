@@ -2,7 +2,7 @@
 
 > ★ Final submission, the deck you submit to the learning platform to qualify for certification.
 
-Your final project is a single deck (Google Slides or PDF) that tells the story of your product concept end-to-end, built from the six deliverable files in this repo.
+Your final project is a single presentation, a self-contained HTML deck built from the six deliverable files in this repo, that tells the story of your product concept end-to-end.
 
 ## How to build it
 
@@ -15,7 +15,7 @@ Your final project is a single deck (Google Slides or PDF) that tells the story 
    - **Individual Insights** ← `06-launch/individual-insights.md`
 2. Confirm your repo URL, copy the master prompt the generator builds, and run it in **Claude**, **ChatGPT**, or **Gemini** to produce a single-file HTML deck. _(Prefer slides? Paste the same content into Gamma or Canva instead.)_
 3. Save the result as `06-launch/final-presentation.html`, commit it, and enable **GitHub Pages** (Settings → Pages) so your deck has a shareable link.
-4. Review, then submit your **repo link** (or the deck / PDF) to the learning platform within **7 days** of your cohort ending.
+4. Review, then submit your **repo link** and your **presentation deck** to the learning platform within **7 days** of your cohort ending.
 
 ## The final showcase _(optional)_
 
