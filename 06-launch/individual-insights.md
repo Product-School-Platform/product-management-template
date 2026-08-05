@@ -1,6 +1,6 @@
-# Individual Insights — Development Process
+# Individual Insights: Development Process
 
-> Module 6 · Launch Impactful GTM Plans — ★ Deliverable 6 (reflection)
+> Module 6 · Launch Impactful GTM Plans, ★ Deliverable 6 (reflection)
 >
 > _The personal reflection that closes your final project._
 

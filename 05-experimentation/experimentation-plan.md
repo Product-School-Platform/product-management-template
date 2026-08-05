@@ -1,8 +1,8 @@
 # Experimentation Plan
 
-> Module 5 · Run Effective Product Experimentation — ★ Deliverable 5
->
-> _You'll complete this during Module 5._
+> **Module 5 · ★ Deliverable 5.** Repo file `05-experimentation/experimentation-plan.md` — part of your submission.
+> Do the lab in the **Module 5 · Exercise Guide** (linked from the Module 5 deck), then click **⬇ Download .md** — it saves as this exact file. Commit it here.
+> It becomes the **Experimentation Plan** slide of your Module 6 final deck.
 
 ## Overview
 

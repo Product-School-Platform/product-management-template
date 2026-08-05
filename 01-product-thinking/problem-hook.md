@@ -1,9 +1,8 @@
-# Problem Hook & Value Proposition — [StreamLine / RouteLogic / your initiative]
+# Problem Hook & Value Proposition: [StreamLine / RouteLogic / your initiative]
 
-> Module 1 · Develop Strategic Product Thinking — ★ Deliverable 1 (Part A)
->
-> Define the *why* behind your project: bridge the company's strategic crisis to a specific user's moment of misery.
-> This is a living document — draft it now, then finalize the **hypothesis** in Module 3.
+> **Module 1 · ★ Deliverable 1.** Repo file `01-product-thinking/problem-hook.md` — part of your submission.
+> Do the lab in the **Module 1 · Exercise 2 Guide** (linked from the Module 1 deck), then click **⬇ Download .md** — it saves as this exact file. Commit it here.
+> It becomes the **Problem, Value & Hypothesis** slide of your Module 6 final deck. (Your Module 1 · Exercise 1 discovery map lands in `strategic-map.md`.)
 
 ## 1. Chosen scenario
 
@@ -25,7 +24,7 @@ _The specific point where the product fails the user, forcing a manual workaroun
 
 ## 4. Problem hook
 
-_One urgent sentence fusing the business risk and the user pain — your pitch for why this is the most important thing to work on right now._
+_One urgent sentence fusing the business risk and the user pain, your pitch for why this is the most important thing to work on right now._
 
 > We must solve [business risk] by addressing [user pain]…
 
@@ -51,4 +50,4 @@ _Read your hook back as a skeptical stakeholder. If you don't feel the urgency, 
 
 ## Link to full artifact
 
-_[link to your Problem Hook Builder export / Slide 1 of your deliverables deck]_
+_[link to your Problem Hook Builder export]_
