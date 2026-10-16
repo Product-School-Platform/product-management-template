@@ -12,15 +12,15 @@ This is a **template repo**. Click **Use this template → Create a new reposito
 |---|---|---|---|---|
 | 1 | **Strategic Discovery Map** (groundwork) | M1 | ☐ | `01-product-thinking/strategic-map.md` |
 | 1 | **Problem Hook & Value Proposition** (+ hypothesis) | M1 | ☐ | `01-product-thinking/problem-hook.md` |
-| 2 | **AI Synthesis** — Product Health & Insights Summary | M2 | ☐ | `02-discovery/ai-synthesis.md` |
+| 2 | **AI Synthesis**, Product Health & Insights Summary | M2 | ☐ | `02-discovery/ai-synthesis.md` |
 | 2 | **Competitive Analysis & Journey Map** | M2 | ☐ | `02-discovery/competitive-and-journey.md` |
 | 3 | **Hypothesis & Success Metrics** | M3 | ☐ | `03-analytics/hypothesis-and-metrics.md` |
 | 4 | **Roadmap, PRD & Prototype** | M4 | ☐ | `04-roadmap/roadmap-prd-prototype.md` |
 | 4 | **PRD & Prototype Sprint** | M4 | ☐ | `04-roadmap/prd-and-prototype.md` |
 | 5 | **Experimentation Plan** | M5 | ☐ | `05-experimentation/experimentation-plan.md` |
 | 6 | **GTM Strategy & Success Dashboard** | M6 | ☐ | `06-launch/gtm-and-dashboard.md` |
-| 6 | **Individual Insights** (reflection) | M6 | ☐ | `06-launch/individual-insights.md` |
-| ★ | **Final Project Presentation** (the deck you submit) | M6 | ☐ | `06-launch/final-presentation.md` |
+| 6 | **Individual Insights** (reflection) | M6 | ☐ | Filled in on the Final Project Deliverables Builder |
+| ★ | **Final Project Presentation** (the deck you submit) | M6 | ☐ | Downloaded from the builder and submitted with your repo link |
 
 ## The project in one sentence
 
@@ -30,8 +30,8 @@ ___
 
 ## How to submit
 
-- Turn the deliverable files into your final deck: run the **Final Presentation Generator** (linked from the Module 6 deck) to build a single-file HTML deck, or paste your files into an AI tool like **Gamma** or **Canva** (see `06-launch/final-presentation.md`).
-- Commit the deck to this repo, then submit your **repo link** and your **presentation deck** to the learning platform within **7 days** of your cohort ending.
+- In Module 6, open the **Final Project Deliverables Builder** (linked from the Module 6 deck). It pulls your deliverables from this repo, then you add your individual insights and download your presentation as an HTML file.
+- You have **7 days** from the day your cohort ends to submit your presentation and the link to this repo on the learning platform.
 
 ## Repo structure
 
@@ -52,7 +52,5 @@ pm-final-project/
 ├── 05-experimentation/
 │   └── experimentation-plan.md            ← M5: experimentation plan          ★ Deliverable 5
 └── 06-launch/
-    ├── gtm-and-dashboard.md               ← M6: GTM plan + success dashboard  ★ Deliverable 6
-    ├── individual-insights.md             ← M6: friction, learnings, aha
-    └── final-presentation.md              ← M6: how to build & submit the deck ★ Final submission
+    └── gtm-and-dashboard.md               ← M6: GTM plan + success dashboard  ★ Deliverable 6
 ```
